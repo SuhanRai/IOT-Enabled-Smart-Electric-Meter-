@@ -37,6 +37,16 @@ The ZMPT101B AC Single Phase Voltage Sensor Module is a high-precision device bu
 
 ![ZMPT101B](https://github.com/SuhanRai/IOT-Enabled-Smart-Electric-Meter-/assets/149513511/2c092b68-c3a2-4541-ade8-4e61cd415843)
 
+**Flow Chart**
+
+![flowchart energymeter](https://github.com/SuhanRai/IOT-Enabled-Smart-Electric-Meter-/assets/149513511/e9f74486-0f28-40ae-8b88-2aaecae43dd0)
+
+**Mind Mapping**
+
+![smartenergy](https://github.com/SuhanRai/IOT-Enabled-Smart-Electric-Meter-/assets/149513511/ca05ba84-e412-4cd6-a915-d3f0805f16b8)
+
+
+
 
 
 
