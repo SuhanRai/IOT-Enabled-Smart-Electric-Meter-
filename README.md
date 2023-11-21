@@ -52,61 +52,65 @@ In essence, the detailed working of smart energy meters involves a seamless orch
 
 **Algorithm**
 
-Initialization:
+Step1: Start.
+
+Step2: Initialization:
 Initialize necessary libraries and components (e.g., EmonLib, Blynk, WiFi).
 Define constants, including Blynk template ID, template name, and Wi-Fi credentials.
 
-Connect to Cloud:
+Step3: Connect to Cloud:
 Set up and establish a connection to the cloud platform (e.g., Blynk).
 Authenticate the device with the cloud platform using a unique authentication token.
 
-Initialize Sensors:
+Step4: Initialize Sensors:
 Set up the energy monitoring sensors (voltage and current sensors).
 Calibrate sensors for accurate energy measurements.
 
-Initialize Display:
+Step5: Initialize Display:
 Initialize a display module (e.g., LCD or OLED) for local information display (optional).
 
-Initialize Data Storage:
+Step6: Initialize Data Storage:
 Set up data storage mechanisms (e.g., EEPROM or other non-volatile memory) for storing critical data like total energy consumption.
 
-Main Loop:
+Step7: Main Loop:
 Enter the main loop to continuously monitor and manage the device.
 
-Read Energy Data:
+Step8: Read Energy Data:
 Read real-time energy consumption data from the energy monitoring sensors.
 Update variables with current energy values.
 
-Calculate and Display:
+Step9: Calculate and Display:
 Calculate instantaneous power, total energy consumption, and other relevant metrics.
 Display real-time data on a local display if available.
 
-Send Data to Cloud:
+Step10: Send Data to Cloud:
 Send energy consumption data to the cloud platform (Blynk or other IoT platform).
 Update cloud-based dashboards for remote monitoring.
 
-Smart Features:
+Step11: Smart Features:
 Implement smart features such as:
 Real-time notifications for high energy consumption.
 Time-of-use analysis for peak and off-peak energy consumption.
 Historical data analysis and reporting.
 Integration with smart home systems for automation.
 
-Data Storage and Logging:
+Step12: Data Storage and Logging:
 Store critical data (e.g., total energy consumption) in non-volatile memory for persistency across power cycles.
 Log historical data for analysis and reporting.
 
-Sleep Mode (Optional):
+Step13: Sleep Mode (Optional):
 Implement a sleep mode to conserve power during periods of inactivity.
 
-Error Handling:
+Step14: Error Handling:
 Implement error handling mechanisms to address sensor failures or communication issues.
 
-End of Main Loop:
+Step15: End of Main Loop:
 Repeat the main loop to continuously monitor and manage the device.
 
-Shutdown (Optional):
+Step16: Shutdown (Optional):
 Implement a shutdown procedure for graceful power-off if required.
+
+Step 17: Stop
 
 **Block Diagram**
 
