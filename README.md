@@ -4,6 +4,10 @@
 
 This project aims to create a smart electric meter through IOT technology.The aim of IoT-based smart electricity meters is to revolutionize energy management, offering real-time consumption data, remote monitoring, and improved efficiency. By enabling informed decisions, optimizing grid operations, and supporting dynamic pricing, these meters enhance conservation efforts, reduce waste, and contribute to a more sustainable and responsive energy ecosystem.
 
+**Technical blogger**
+
+https://iotsmartmeter.blogspot.com/2023/11/title-iot-energy-meter-real-time.html
+
 **Objectives:**
 
 •	Real-Time Monitoring: Provide users with instantaneous visibility into their electricity consumption.
