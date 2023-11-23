@@ -1,4 +1,4 @@
-# IOT-Enabled-Smart-Electric-Meter-
+# IoT Energy Meter: Real-time Display and Remote Monitoring via Blynk App
 
 **Aim**
 
