@@ -244,12 +244,6 @@ Step 17: Stop
 
 ![WhatsApp Image 2023-11-23 at 2 58 35 PM](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/3288410c-b30a-463b-a7fb-f64e240787f6)
 
-
-**Circuit**
-
-![Capture000](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/db9b5448-d41b-428f-866b-f463f2ffd2c0)
-
-
 **Circuit Code**
 
 #define BLYNK_TEMPLATE_ID "TMPL3Xkno1f7f"
