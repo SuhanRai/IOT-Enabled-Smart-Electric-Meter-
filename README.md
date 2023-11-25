@@ -36,7 +36,8 @@ Electronic energy meters, also known as smart meters, incorporate a range of fea
 
 **Mind Mapping**
 
-![SMARTTTT (1)](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/4a66ad12-6fc3-4fbe-84c6-8bc7e6e7a3df)
+![mind map](https://github.com/SuhanRai/IOT-Enabled-Smart-Electric-Meter-/assets/149513511/2ea7c91d-8936-474c-822c-4cae9a201b44)
+
 
 **Working**
 
@@ -52,7 +53,8 @@ In essence, the detailed working of smart energy meters involves a seamless orch
 
 **Flow Chart**
 
-![1234](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/d85c1945-19fe-4b58-8f5e-827b5a03fee3)
+![flow chart](https://github.com/SuhanRai/IOT-Enabled-Smart-Electric-Meter-/assets/149513511/996e2eac-4526-420a-abff-09afb103026d)
+
 
 **Algorithm**
 
@@ -123,7 +125,9 @@ Step 17: Stop
 
 **Circuit Diagram**
 
-![WhatsApp Image 2023-11-23 at 2 58 35 PM](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/3288410c-b30a-463b-a7fb-f64e240787f6)
+
+![circuit diagram](https://github.com/SuhanRai/IOT-Enabled-Smart-Electric-Meter-/assets/149513511/dcd1b0f5-7570-4b7f-8ee8-963cc0fd25c6)
+
 
 **Circuit**
 
